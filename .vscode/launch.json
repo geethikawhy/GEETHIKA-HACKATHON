@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "Array1",
+            "projectName": "java_b16ece78"
+        },
+        {
+            "type": "java",
+            "name": "switchmonthimport",
+            "request": "launch",
+            "mainClass": "switchmonthimport",
+            "projectName": "java_b16ece78"
+        },
+        {
+            "type": "java",
+            "name": "BookInfoCaseStudyTest",
+            "request": "launch",
+            "mainClass": "BookInfoCaseStudyTest",
+            "projectName": "java_b16ece78"
+        },
+        {
+            "type": "java",
+            "name": "Dog",
+            "request": "launch",
+            "mainClass": "Dog",
+            "projectName": "java_b16ece78"
+        },
+        {
+            "type": "java",
+            "name": "identifynumbers",
+            "request": "launch",
+            "mainClass": "identifynumbers",
+            "projectName": "java_b16ece78"
+        },
+        {
+            "type": "java",
+            "name": "First10NaturalNumber",
+            "request": "launch",
+            "mainClass": "First10NaturalNumber",
+            "projectName": "java_b16ece78"
+        },
+        {
+            "type": "java",
+            "name": "HelloTest",
+            "request": "launch",
+            "mainClass": "HelloTest",
+            "projectName": "java_b16ece78"
+        },
+        {
+            "type": "java",
+            "name": "InherutanceDemo",
+            "request": "launch",
+            "mainClass": "InherutanceDemo",
+            "projectName": "java_b16ece78"
+        },
+        {
+            "type": "java",
+            "name": "MultipleInherit",
+            "request": "launch",
+            "mainClass": "MultipleInherit",
+            "projectName": "java_b16ece78"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
